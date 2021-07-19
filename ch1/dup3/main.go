@@ -1,12 +1,5 @@
-// Copyright © 2016 Alan A. A. Donovan & Brian W. Kernighan.
-// License: https://creativecommons.org/licenses/by-nc-sa/4.0/
-
-// See page 12.
-
-//!+
-
-// Dup3 prints the count and text of lines that
-// appear more than once in the named input files.
+// Dup3 prints the counts and text of lines that
+//appear more than once in the named input files.
 package main
 
 import (
@@ -34,5 +27,3 @@ func main() {
 		}
 	}
 }
-
-//!-
