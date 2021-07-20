@@ -1,4 +1,5 @@
-# The Go Programming Language
+# Self-practice - The Go Programming Language Book
 
-This repository recreates the downloadable program examples
-for the book with additional notes as comments within the programs, "The Go Programming Language"; see http://www.gopl.io.
+In this repository I recreated each example in the book along with adding solutions to the exercises. 
+
+
